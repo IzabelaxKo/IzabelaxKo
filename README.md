@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm85ODRhNTdwYzhjZDl4YjJxenRmMng5cHI0dGI0YXE0NHc5aGp6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/><br/>
-  <a href="https://twitter.com/izabe_xa"><img src="https://img.shields.io/badge/twitter - link - black" /></a>
+  <a href="https://twitter.com/izabe_xa" target="_blank"><img src="https://img.shields.io/badge/twitter - link - black" /></a>
   <img src='https://img.shields.io/badge/discord:  - purple' onclick=""/> <br> 
   <b>@0x_zikea</b>
   <h1>Hello there</h1>
