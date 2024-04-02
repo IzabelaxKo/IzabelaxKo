@@ -44,9 +44,3 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats"> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark">
 </div>
-
-<hr/>
-<div id="footer" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGozMWhpcGQ0czhubjVmdXkwcHI2M2FxNmR2NmRsZXcycXdqY3UyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JDnaQ8qn0Myuk/giphy.gif" width="300"> <br/>
-  :)
-</div>
