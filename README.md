@@ -41,6 +41,6 @@
 
 <div id='stats' align="center">
   <h1>🔥 My stats:</h1>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=IzabelaxKo&theme=dark&background=000000)](https://git.io/streak-stats"> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabelaxKo&layout=compact&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabelaxKo&layout=compact&theme=vision-friendly-dark"> <br/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=IzabelaxKo&theme=dark&background=000000)](https://git.io/streak-stats">
 </div>
