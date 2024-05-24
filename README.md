@@ -44,5 +44,9 @@
 
 <div id='stats' align="center">
   <h1>🔥 My stats:</h1>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabelaxKo&layout=compact&theme=vision-friendly-dark"> 
+  Github: <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabelaxKo&layout=compact&theme=vision-friendly-dark"> <br><br>
+  Codewars (I mainly do C++ rn): <br>
+  <img src="https://www.codewars.com/users/IzabelaxKo/badges/large"> <br>
+  
 </div>
