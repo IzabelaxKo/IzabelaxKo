@@ -14,32 +14,22 @@
     ⏬ ~ Below You can see more technical details about what I already know or what are my plans.    
   </p>
 
-  <h2>⛏️ | Here are the technologies that I'm currently learning and using: </h2>
+  <h2>⛏️ | Here are the technologies that I know - from most to least used: </h2>
   <div id="known-tech">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>   
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
     
   </div>
   
-  <h2>💡 | Here are the technologies that I want to learn: </h2>
-  <div id="future-tech">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>    
-  </div>
-  <br/>
+  <h3>💡 | I'm open to learning some new technologies! </h3>
+ 
 </div>
 
 <div id='stats' align="center">
