@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm85ODRhNTdwYzhjZDl4YjJxenRmMng5cHI0dGI0YXE0NHc5aGp6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/><br/>
   <a href="https://twitter.com/izabe_xa" target="_blank"><img src="https://img.shields.io/badge/twitter - link - black" /></a>
-  <img src='https://img.shields.io/badge/discord:  - purple' onclick=""/> <br> 
+  <img src='https://img.shields.io/badge/discord:  - purple' onclick=""/> 
   <b>@0x_zikea</b>
   <h1>Hello there</h1>
 </div>
@@ -16,6 +16,7 @@
 
   <h2>⛏️ | Here are the technologies that I'm currently learning and using: </h2>
   <div id="known-tech">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>   
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
@@ -30,7 +31,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>   
     
   </div>
   
