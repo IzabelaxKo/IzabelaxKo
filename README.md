@@ -7,11 +7,10 @@
 </div>
 
 <div id="abtMe" align="left">
-  <h3>Hi 👋 i'm Iza (or zikea, or IzabelaxKo etc. etc.)</h3>
+  <h3>Hi 👋 i'm Iza</h3>
   <p>
-    💘 ~ I'm coding because It's my hobby, like really I love It. I think that I was made for It and It was made for me. <br/>
-    🚀 ~ I want to do It professionally cause my mum always told me: "Do what you love and you won't work a day in your life". <br/>
-    ⏬ ~ Below You can see more technical details about what I already know or what are my plans.    
+    ~ I'm coding because It's my hobby, like really I love It. I think that I was made for It and It was made for me. <br/>
+    ~ Below You can see more technical details about what I already know or what are my plans.    
   </p>
 
   <h2>⛏️ | Here are the technologies that I know - from most to least used: </h2>
