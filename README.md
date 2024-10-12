@@ -10,21 +10,20 @@
   <h3>Hi 👋 i'm Iza</h3>
   <p>
     ~ I'm coding because It's my hobby, like really I love It. I think that I was made for It and It was made for me. <br/>
-    ~ Below You can see more technical details about what I already know or what are my plans.    
+    ~ Below You can see more technical details about what I already know.
   </p>
 
-  <h2>⛏️ | Here are the technologies that I know - from most to least used: </h2>
+  <h2>Here are the technologies that I know - from most to least used: </h2>
   <div id="known-tech">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>   
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40"/>
-    
   </div>
   
   <h3>💡 | I'm open to learning some new technologies! </h3>
@@ -32,7 +31,7 @@
 </div>
 
 <div id='stats' align="center">
-  <h1>🔥 My stats:</h1>
+  <h1>My stats:</h1>
   Github: <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabelaxKo&layout=compact&theme=vision-friendly-dark"> <br><br>
   Codewars (I mainly do C++ rn): <br>
